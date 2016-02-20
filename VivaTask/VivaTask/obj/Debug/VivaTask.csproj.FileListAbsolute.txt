@@ -1,0 +1,6 @@
+G:\C#\VivaTask\VivaTask\bin\VivaTask.dll.config
+G:\C#\VivaTask\VivaTask\bin\VivaTask.dll
+G:\C#\VivaTask\VivaTask\bin\VivaTask.pdb
+G:\C#\VivaTask\VivaTask\obj\Debug\VivaTask.csprojResolveAssemblyReference.cache
+G:\C#\VivaTask\VivaTask\obj\Debug\VivaTask.dll
+G:\C#\VivaTask\VivaTask\obj\Debug\VivaTask.pdb
